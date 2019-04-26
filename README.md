@@ -1,1 +1,2 @@
-# STARTKIT_senior_engineer_of_Google_explained_go_language_in_depth
+# mygolang
+
